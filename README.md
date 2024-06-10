@@ -2,4 +2,4 @@
 
 
 ### CONTROLS
-press both left and right primary buttons to get shot up into the hair!
+press right primary buttons to get very high gravity!
