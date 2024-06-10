@@ -2,4 +2,13 @@
 
 
 ### CONTROLS
-press right primary buttons to get very high gravity!
+
+
+right primary makes your gavity shoot you right
+right secondary makes your gavity shoot you left
+
+
+left primary makes your gavity shoot you left
+left secondary makes your gavity shoot you right
+
+right trigger to go back to normal gravity!
